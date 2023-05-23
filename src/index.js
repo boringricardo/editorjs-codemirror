@@ -52,6 +52,7 @@ export default class CodeMirrorTool {
       { name: 'Clojure', value: 'clojure', extension: StreamLanguage.define(clojure) },
       { name: 'CSS', value: 'css', extension: css },
       { name: 'Dockerfile', value: 'dockerfile', extension: StreamLanguage.define(dockerFile) },
+      { name: 'Elixir', value: 'elixir', extension: StreamLanguage.define(elixir) },
       { name: 'Gherkin', value: 'gherkin', extension: StreamLanguage.define(gherkin) },
       { name: 'HTML', value: 'html', extenstion: html },
       { name: 'JavaScript', value: 'javascript', extenstion: javascript },
